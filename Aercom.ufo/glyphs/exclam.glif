@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="1">
+  <advance width="425"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="172" y="304" type="line"/>
+      <point x="248" y="305" type="line"/>
+      <point x="305" y="1465" type="line"/>
+      <point x="120" y="1465" type="line"/>
+    </contour>
+    <contour>
+      <point x="137" y="197" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="301" y="197" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>exclam</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>425</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

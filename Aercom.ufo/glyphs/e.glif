@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e" format="1">
+  <advance width="1076"/>
+  <unicode hex="0065"/>
+  <outline>
+    <contour>
+      <point x="274" y="1044"/>
+      <point x="117" y="823"/>
+      <point x="117" y="512" type="curve" smooth="yes"/>
+      <point x="117" y="231"/>
+      <point x="247" y="-24"/>
+      <point x="563" y="-24" type="curve" smooth="yes"/>
+      <point x="734.011695506" y="-24.0"/>
+      <point x="893.431991971" y="82.727967885"/>
+      <point x="942" y="277" type="curve"/>
+      <point x="827" y="318" type="line"/>
+      <point x="796.810134164" y="200.259523239"/>
+      <point x="723.006309211" y="81.0"/>
+      <point x="564" y="81" type="curve" smooth="yes"/>
+      <point x="344" y="81"/>
+      <point x="261" y="277"/>
+      <point x="261" y="498" type="curve"/>
+      <point x="960" y="498" type="line"/>
+      <point x="962" y="515"/>
+      <point x="963" y="549"/>
+      <point x="963" y="558" type="curve" smooth="yes"/>
+      <point x="963" y="830"/>
+      <point x="841" y="1044"/>
+      <point x="556" y="1044" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="262" y="592" type="line"/>
+      <point x="272" y="774"/>
+      <point x="368" y="941"/>
+      <point x="552" y="941" type="curve" smooth="yes"/>
+      <point x="743" y="941"/>
+      <point x="825" y="802"/>
+      <point x="826" y="592" type="curve"/>
+    </contour>
+    <contour>
+      <point x="555" y="1023" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>e</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1076</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
