@@ -429,13 +429,18 @@
 		<string>parenright</string>
 		<string>bracketright</string>
 		<string>braceright</string>
+		<string>guillemotleft</string>
 		<string>quoteleft</string>
 		<string>quotedblleft</string>
+		<string>guillemotright</string>
 		<string>quoteright</string>
 		<string>quotedblright</string>
 		<string>exclam</string>
+		<string>quotedbl</string>
+		<string>numbersign</string>
 		<string>percent</string>
 		<string>ampersand</string>
+		<string>asterisk</string>
 		<string>comma</string>
 		<string>period</string>
 		<string>slash</string>
@@ -447,11 +452,16 @@
 		<string>periodcentered</string>
 		<string>questiondown</string>
 		<string>plus</string>
+		<string>less</string>
 		<string>equal</string>
+		<string>greater</string>
+		<string>bar</string>
+		<string>asciitilde</string>
 		<string>multiply</string>
 		<string>dollar</string>
 		<string>cent</string>
 		<string>yen</string>
+		<string>asciicircum</string>
 		<string>grave</string>
 		<string>dieresis</string>
 		<string>macron</string>
@@ -463,6 +473,7 @@
 		<string>ogonek</string>
 		<string>tilde</string>
 		<string>hungarumlaut</string>
+		<string>copyright</string>
 		<string>registered</string>
 		<string>paragraph</string>
 		<string>trademark</string>

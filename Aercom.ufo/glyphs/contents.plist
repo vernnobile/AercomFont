@@ -426,6 +426,8 @@
 	<string>ugrave.glif</string>
 	<key>umacron</key>
 	<string>umacron.glif</string>
+	<key>underscore</key>
+	<string>underscore.glif</string>
 	<key>uni020B</key>
 	<string>uni020B_.glif</string>
 	<key>uni030F</key>
