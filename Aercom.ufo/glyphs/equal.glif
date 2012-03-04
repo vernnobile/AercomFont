@@ -1,48 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="equal" format="1">
-  <advance width="784"/>
+  <advance width="820"/>
   <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="100" y="550" type="line"/>
-      <point x="650" y="550" type="line"/>
-      <point x="650" y="650" type="line"/>
-      <point x="100" y="650" type="line"/>
+      <point x="135" y="550" type="line"/>
+      <point x="135" y="650" type="line"/>
+      <point x="685" y="650" type="line"/>
+      <point x="685" y="550" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="300" type="line"/>
-      <point x="650" y="300" type="line"/>
-      <point x="650" y="400" type="line"/>
-      <point x="100" y="400" type="line"/>
+      <point x="135" y="300" type="line"/>
+      <point x="135" y="400" type="line"/>
+      <point x="685" y="400" type="line"/>
+      <point x="685" y="300" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>equal</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>784</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

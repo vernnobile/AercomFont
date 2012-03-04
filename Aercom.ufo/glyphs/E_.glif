@@ -1,53 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="1170"/>
+  <advance width="1178"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="1120" y="0" type="line"/>
-      <point x="1120" y="113" type="line"/>
-      <point x="286" y="113" type="line"/>
-      <point x="286" y="723" type="line"/>
-      <point x="1002" y="723" type="line"/>
-      <point x="1002" y="838" type="line"/>
-      <point x="286" y="838" type="line"/>
-      <point x="286" y="1352" type="line"/>
-      <point x="1109" y="1352" type="line"/>
-      <point x="1109" y="1464" type="line"/>
-      <point x="140" y="1464" type="line"/>
-      <point x="140" y="0" type="line"/>
+      <point x="1128" y="0" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="148" y="1464" type="line"/>
+      <point x="1117" y="1464" type="line"/>
+      <point x="1117" y="1352" type="line"/>
+      <point x="294" y="1352" type="line"/>
+      <point x="294" y="838" type="line"/>
+      <point x="1010" y="838" type="line"/>
+      <point x="1010" y="723" type="line"/>
+      <point x="294" y="723" type="line"/>
+      <point x="294" y="113" type="line"/>
+      <point x="1128" y="113" type="line"/>
     </contour>
     <contour>
-      <point x="623" y="1436" type="move" name="top"/>
+      <point x="589" y="1464" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="589" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1060" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>E</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1170</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

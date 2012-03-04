@@ -14,33 +14,24 @@
 	<string>Aercom</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
-	<key>macintoshFONDFamilyID</key>
-	<integer>128</integer>
 	<key>macintoshFONDName</key>
 	<string>Aercom</string>
 	<key>note</key>
 	<string>autokern = 280 / 22. autospace = 140 / little</string>
-	<key>openTypeHeadLowestRecPPEM</key>
-	<integer>9</integer>
-	<key>openTypeHheaAscender</key>
-	<integer>1521</integer>
-	<key>openTypeHheaDescender</key>
-	<integer>-438</integer>
-	<key>openTypeHheaLineGap</key>
-	<integer>41</integer>
+	<key>openTypeHeadCreated</key>
+	<string>2012/01/24 10:59:52</string>
 	<key>openTypeNameCompatibleFullName</key>
 	<string>Aercom</string>
 	<key>openTypeNameDescription</key>
 	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>newtypography.co.uk</string>
 	<key>openTypeNameManufacturer</key>
 	<string>vernon adams</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Aercom</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
-	<key>openTypeOS2CodePageRanges</key>
-	<array>
-	</array>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
@@ -81,6 +72,22 @@
 	<integer>1331</integer>
 	<key>openTypeOS2Type</key>
 	<array>
+		<integer>1</integer>
+		<integer>1</integer>
+		<integer>1</integer>
+		<integer>1</integer>
+		<integer>1</integer>
+		<integer>1</integer>
+		<integer>1</integer>
+		<integer>1</integer>
+		<integer>1</integer>
+		<integer>1</integer>
+		<integer>1</integer>
+		<integer>1</integer>
+		<integer>1</integer>
+		<integer>1</integer>
+		<integer>1</integer>
+		<integer>1</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>1492</integer>
@@ -88,17 +95,16 @@
 	<integer>-391</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>81</integer>
-	<key>openTypeOS2UnicodeRanges</key>
-	<array>
-	</array>
 	<key>openTypeOS2VendorID</key>
-	<string>pyrs</string>
+	<string>newt</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>1521</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>-438</integer>
+	<integer>0</integer>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
@@ -108,27 +114,13 @@
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
-	<key>postscriptDefaultWidthX</key>
-	<integer>500</integer>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-	</array>
 	<key>postscriptFontName</key>
 	<string>Aercom</string>
-	<key>postscriptForceBold</key>
-	<false/>
 	<key>postscriptFullName</key>
 	<string>Aercom</string>
-	<key>postscriptIsFixedPitch</key>
-	<false/>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
-	<key>postscriptSlantAngle</key>
-	<real>-0.0</real>
 	<key>postscriptStemSnapH</key>
 	<array>
 		<integer>76</integer>
@@ -147,14 +139,8 @@
 	<integer>-205</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>102</integer>
-	<key>postscriptUniqueID</key>
-	<integer>-1</integer>
 	<key>postscriptWeightName</key>
 	<string>Regular</string>
-	<key>postscriptWindowsCharacterSet</key>
-	<integer>1</integer>
-	<key>styleMapFamilyName</key>
-	<string>Aercom</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
@@ -166,10 +152,8 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>1023</integer>
-	<key>year</key>
-	<integer>2011</integer>
 </dict>
 </plist>

@@ -1,37 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclamdown" format="1">
-  <advance width="463"/>
+  <advance width="426"/>
   <unicode hex="00A1"/>
   <outline>
-    <component base="exclam" yScale="-1.0" yOffset="1465"/>
+    <contour>
+      <point x="174" y="1161" type="line"/>
+      <point x="250" y="1160" type="line"/>
+      <point x="307" y="0" type="line"/>
+      <point x="122" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="139" y="1268" type="line"/>
+      <point x="139" y="1465" type="line"/>
+      <point x="303" y="1465" type="line"/>
+      <point x="303" y="1268" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>exclamdown</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>463</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

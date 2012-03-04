@@ -1,45 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar" format="1">
-  <advance width="456"/>
+  <advance width="416"/>
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="301" y="-197" type="line"/>
-      <point x="301" y="1502" type="line"/>
-      <point x="155" y="1502" type="line"/>
-      <point x="155" y="-197" type="line"/>
+      <point x="281" y="-197" type="line"/>
+      <point x="135" y="-197" type="line"/>
+      <point x="135" y="1502" type="line"/>
+      <point x="281" y="1502" type="line"/>
     </contour>
     <contour>
-      <point x="227.0" y="0.0" type="move" name="bot"/>
+      <point x="207" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>bar</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>456</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

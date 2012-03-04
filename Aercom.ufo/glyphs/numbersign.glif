@@ -1,78 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numbersign" format="1">
-  <advance width="1260"/>
+  <advance width="1221"/>
   <unicode hex="0023"/>
   <outline>
     <contour>
-      <point x="74" y="551" type="line"/>
-      <point x="1100" y="551" type="line"/>
-      <point x="1129" y="649" type="line"/>
-      <point x="103" y="649" type="line"/>
+      <point x="51" y="551" type="line"/>
+      <point x="80" y="649" type="line"/>
+      <point x="1106" y="649" type="line"/>
+      <point x="1077" y="551" type="line"/>
     </contour>
     <contour>
-      <point x="1064" y="1464" type="line"/>
-      <point x="925" y="1463" type="line"/>
-      <point x="629" y="0" type="line"/>
-      <point x="763" y="1" type="line"/>
+      <point x="1041" y="1464" type="line"/>
+      <point x="740" y="1" type="line"/>
+      <point x="606" y="0" type="line"/>
+      <point x="902" y="1463" type="line"/>
     </contour>
     <contour>
-      <point x="301" y="1" type="line"/>
-      <point x="602" y="1464" type="line"/>
-      <point x="463" y="1463" type="line"/>
-      <point x="167" y="0" type="line"/>
+      <point x="278" y="1" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="440" y="1463" type="line"/>
+      <point x="579" y="1464" type="line"/>
     </contour>
     <contour>
-      <point x="172" y="999" type="line"/>
-      <point x="143" y="901" type="line"/>
-      <point x="1169" y="901" type="line"/>
-      <point x="1198" y="999" type="line"/>
+      <point x="149" y="999" type="line"/>
+      <point x="1175" y="999" type="line"/>
+      <point x="1146" y="901" type="line"/>
+      <point x="120" y="901" type="line"/>
     </contour>
     <contour>
-      <point x="227.0" y="0.0" type="move" name="bot"/>
+      <point x="204" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="227.0" y="0.0" type="move" name="bot"/>
+      <point x="204" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="642.0" y="0.0" type="move" name="bot"/>
+      <point x="619" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="642.0" y="0.0" type="move" name="bot"/>
+      <point x="619" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="642.0" y="0.0" type="move" name="bot"/>
+      <point x="619" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="642.0" y="0.0" type="move" name="bot"/>
+      <point x="619" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>numbersign</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1260</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

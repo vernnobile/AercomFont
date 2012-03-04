@@ -1,60 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udieresis" format="1">
-  <advance width="1154"/>
+  <advance width="1122"/>
   <unicode hex="00FC"/>
   <outline>
-    <contour>
-      <point x="855" y="436" type="line" smooth="yes"/>
-      <point x="855" y="415"/>
-      <point x="854" y="395"/>
-      <point x="850" y="379" type="curve" smooth="yes"/>
-      <point x="832" y="300"/>
-      <point x="760" y="87"/>
-      <point x="519" y="87" type="curve" smooth="yes"/>
-      <point x="348" y="87"/>
-      <point x="295" y="209"/>
-      <point x="295" y="406" type="curve" smooth="yes"/>
-      <point x="295" y="1022" type="line"/>
-      <point x="148" y="1022" type="line"/>
-      <point x="148" y="436" type="line" smooth="yes"/>
-      <point x="148" y="234"/>
-      <point x="179" y="-24"/>
-      <point x="494" y="-24" type="curve" smooth="yes"/>
-      <point x="630" y="-24"/>
-      <point x="762" y="21"/>
-      <point x="856" y="159" type="curve"/>
-      <point x="860" y="-1" type="line"/>
-      <point x="997" y="-1" type="line"/>
-      <point x="997" y="1022" type="line"/>
-      <point x="855" y="1022" type="line"/>
-    </contour>
-    <contour>
-      <point x="283" y="1372" type="curve"/>
-      <point x="283" y="1307"/>
-      <point x="285" y="1246"/>
-      <point x="289" y="1190" type="curve"/>
-      <point x="347" y="1190"/>
-      <point x="404" y="1191"/>
-      <point x="457" y="1195" type="curve"/>
-      <point x="457" y="1261"/>
-      <point x="454" y="1321"/>
-      <point x="451" y="1377" type="curve"/>
-      <point x="392" y="1377"/>
-      <point x="336" y="1376"/>
-    </contour>
-    <contour>
-      <point x="739" y="1372" type="curve"/>
-      <point x="739" y="1307"/>
-      <point x="741" y="1246"/>
-      <point x="744" y="1190" type="curve"/>
-      <point x="802" y="1190"/>
-      <point x="860" y="1191"/>
-      <point x="912" y="1195" type="curve"/>
-      <point x="912" y="1261"/>
-      <point x="910" y="1321"/>
-      <point x="906" y="1377" type="curve"/>
-      <point x="848" y="1377"/>
-      <point x="791" y="1376"/>
-    </contour>
+    <component base="dieresis" xOffset="116" yOffset="-44"/>
+    <component base="u"/>
   </outline>
 </glyph>

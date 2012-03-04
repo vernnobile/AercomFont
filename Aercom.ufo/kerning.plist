@@ -333,20 +333,11 @@
 		<integer>-26</integer>
 		<key>period</key>
 		<integer>-38</integer>
-		<key>t</key>
-		<integer>0</integer>
-	</dict>
-	<key>d</key>
-	<dict>
-		<key>i</key>
-		<integer>0</integer>
 	</dict>
 	<key>e</key>
 	<dict>
 		<key>a</key>
 		<integer>-42</integer>
-		<key>c</key>
-		<integer>0</integer>
 		<key>comma</key>
 		<integer>-42</integer>
 		<key>period</key>
@@ -378,22 +369,12 @@
 		<key>period</key>
 		<integer>-42</integer>
 	</dict>
-	<key>i</key>
-	<dict>
-		<key>r</key>
-		<integer>0</integer>
-	</dict>
 	<key>k</key>
 	<dict>
 		<key>e</key>
 		<integer>-64</integer>
 		<key>o</key>
 		<integer>-62</integer>
-	</dict>
-	<key>l</key>
-	<dict>
-		<key>y</key>
-		<integer>0</integer>
 	</dict>
 	<key>m</key>
 	<dict>
@@ -447,8 +428,6 @@
 	</dict>
 	<key>t</key>
 	<dict>
-		<key>l</key>
-		<integer>0</integer>
 		<key>o</key>
 		<integer>-46</integer>
 	</dict>

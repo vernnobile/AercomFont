@@ -1,57 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotleft" format="1">
-  <advance width="1016"/>
+  <advance width="946"/>
   <unicode hex="00AB"/>
   <outline>
     <contour>
-      <point x="946" y="251" type="line"/>
-      <point x="946" y="393" type="line"/>
-      <point x="599" y="650" type="line"/>
-      <point x="946" y="909" type="line"/>
-      <point x="946" y="1050" type="line"/>
-      <point x="501" y="749" type="line"/>
-      <point x="501" y="552" type="line"/>
+      <point x="894" y="251" type="line"/>
+      <point x="449" y="552" type="line"/>
+      <point x="449" y="749" type="line"/>
+      <point x="894" y="1050" type="line"/>
+      <point x="894" y="909" type="line"/>
+      <point x="547" y="650" type="line"/>
+      <point x="894" y="393" type="line"/>
     </contour>
     <contour>
-      <point x="103" y="552" type="line"/>
-      <point x="548" y="251" type="line"/>
-      <point x="548" y="393" type="line"/>
-      <point x="201" y="650" type="line"/>
-      <point x="548" y="909" type="line"/>
-      <point x="548" y="1050" type="line"/>
-      <point x="103" y="749" type="line"/>
+      <point x="51" y="552" type="line"/>
+      <point x="51" y="749" type="line"/>
+      <point x="496" y="1050" type="line"/>
+      <point x="496" y="909" type="line"/>
+      <point x="149" y="650" type="line"/>
+      <point x="496" y="393" type="line"/>
+      <point x="496" y="251" type="line"/>
     </contour>
     <contour>
-      <point x="572" y="1260" type="move" name="_top"/>
+      <point x="520" y="1260" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>guillemotleft</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1016</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
